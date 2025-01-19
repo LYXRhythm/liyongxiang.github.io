@@ -1,9 +1,9 @@
 # 🧑‍🎨 Academic Service
 
 ### Members:
- - IEEE Student Member
- - Student member of China Society of Image and Graphic
- - Student member of China Computer Society
+ - IEEE Student Member;
+ - Student member of China Society of Image and Graphic;
+ - Student member of China Computer Society.
 
 ### Selected Journal Reviewer:
  - IEEE Transactions on Image Processing (TIP);
