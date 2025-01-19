@@ -4,4 +4,7 @@
 <div class='paper-box-text' markdown="1">
 
 [FastSpeech: Fast, Robust and Controllable Text to Speech](https://papers.nips.cc/paper/8580-fastspeech-fast-robust-and-controllable-text-to-speech.pdf) \\
-**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu
+**Yi Ren**, Yangjun Ruan, Xu Tan, Tao Qin, Sheng Zhao, Zhou Zhao, Tie-Yan Liu \\
+Description: dfbsaifbisdbgilsbgilsblbdslbgslbgldsgblsb \\
+dfniabflagbgsdbgsl \\
+dbnsilsb \\
