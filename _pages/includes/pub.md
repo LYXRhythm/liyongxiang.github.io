@@ -19,4 +19,4 @@
 - [Statistically dependent blind signal separation under relaxed sparsity](https://ieeexplore.ieee.org/abstract/document/10113143), <br> IEEE Signal Processing Letters (SPL) <br> **Yongxiang Li**, Dezhong Peng, Yong Xiang, Qingchuan Tao, Zhong Yuan
 
 ## 2021
-- [SF-GAN: Face de-identification method without losing facial attribute information](https://ieeexplore.ieee.org/abstract/document/9382120), <br> IEEE Signal Processing Letters (SPL) <br> **Yongxiang Li**, Qianwen Lu, Qingchuan Tao, Xingbo Zhao, Yanmei Yu.
+- [SF-GAN: Face de-identification method without losing facial attribute information](https://ieeexplore.ieee.org/abstract/document/9382120), <br> IEEE Signal Processing Letters (SPL) <br> **Yongxiang Li**, Qianwen Lu, Qingchuan Tao, Xingbo Zhao, Yanmei Yu
