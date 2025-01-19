@@ -1,5 +1,4 @@
 # 📎 Homepages
-- Personal Pages: https://rayeren.github.io (updated recently🔥)
-- Linkedin: https://www.linkedin.com/in/rayeren
-- Google Scholar: https://scholar.google.com/citations?user=4FA6C0AAAAAJ
-- DBLP: https://dblp.org/pid/75/6568-6.html
+- Personal Pages: https://lyxrhythm.github.io/liyongxiang.github.io (updated recently🔥)
+- Google Scholar: https://scholar.google.com.hk/citations?user=086_rlUAAAAJ&hl
+- DBLP: https://dblp.org/pid/83/2175.html
