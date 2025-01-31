@@ -3,6 +3,8 @@
 (#equal contribution, *corresponding author)
 
 ## 2025
+- [Outlier detection in mixed-attribute data: a semi-supervised approach with fuzzy approximations and relative entropy](https://www.sciencedirect.com/science/article/abs/pii/S0888613X25000143?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=245378301&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM539090&utm_medium=email&utm_source=AC_), <br> International Journal of Approximate Reasoning (IJAR), `CCF-B` `JCR: Q3` <br> Baiyang Chen, 
+Zhong Yuan, Zheng Liu, Dezhong Peng, **Yongxiang Li**, Chang Liu, Guiduo Duan
 - Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, <br> IEEE Transactions on Information Forensics and Security (TIFS), `CCF-A` `JCR: Q1` <br> **Yongxiang Li**, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu
 
 ## 2024
