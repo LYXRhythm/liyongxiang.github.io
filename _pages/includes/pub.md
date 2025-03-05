@@ -8,7 +8,7 @@
 - Learning Source-free Domain Adaptation for Infrared Small Target Detection, <br> IEEE Signal Processing Letters (SPL) `JCR: Q2` <br> Hongxu Jin, Baiyang Chen, Qianwen Lu, Qingchuan Tao, and **Yongxiang Li#**
 - [Outlier detection in mixed-attribute data: a semi-supervised approach with fuzzy approximations and relative entropy](https://www.sciencedirect.com/science/article/abs/pii/S0888613X25000143?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=245378301&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM539090&utm_medium=email&utm_source=AC_), <br> International Journal of Approximate Reasoning (IJAR), `CCF-B` `JCR: Q3` <br> Baiyang Chen, 
 Zhong Yuan, Zheng Liu, Dezhong Peng, **Yongxiang Li**, Chang Liu, Guiduo Duan
-- Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification, <br> IEEE Transactions on Information Forensics and Security (TIFS), `CCF-A` `JCR: Q1` <br> **Yongxiang Li**, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu
+- [Robust Duality Learning for Unsupervised Visible-Infrared Person Re-Identification](https://ieeexplore.ieee.org/document/10858072), <br> IEEE Transactions on Information Forensics and Security (TIFS), `CCF-A` `JCR: Q1` <br> **Yongxiang Li**, Yuan Sun, Yang Qin, Dezhong Peng, Xi Peng, Peng Hu
 
 ## 2024
 - [Underdetermined Blind Signal Separation with Smooth Approximation Function for Insufficiently Sparse Sources](https://link.springer.com/article/10.1007/s00034-024-02914-9), <br> Circuits, Systems, and Signal Processing (CSSP) `JCR: Q3` <br> **Yongxiang Li**, Dezhong Peng, Yong Xiang, Yingke Chen, Qingchuan Tao
