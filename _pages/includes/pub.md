@@ -3,6 +3,9 @@
 (*equal contribution, #corresponding author)
 
 ## 2025
+- Beyond Clean Labels: Harnessing Confidence and Entropy for Noise-Robust Domain Adaptation, <br> International Joint Conference on Artificial Intelligence (IJCAI) `CCF-A` <br> Zijie Zhong,
+Xu Wang, Dezhong Peng, Yanglin Feng, **Yongxiang Li**
+- **Yongxiang Li**, Dezhong Peng, Haixiao Huang, Yizhi Liu, Huiming Zheng, Zheng Liu
 - Multi-granularity confidence learning for unsupervised text-to-image person re-identification with incomplete modality, <br> Knowledge-Based Systems (KBS) `JCR: Q1` <br> **Yongxiang Li**, Dezhong Peng, Haixiao Huang, Yizhi Liu, Huiming Zheng, Zheng Liu
 - ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, <br> Conference on Computer Vision and Pattern Recognition (CVPR), `CCF-A` <br> Yuan Sun, **Yongxiang Li**, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu
 - Learning Source-free Domain Adaptation for Infrared Small Target Detection, <br> IEEE Signal Processing Letters (SPL) `JCR: Q2` <br> Hongxu Jin, Baiyang Chen, Qianwen Lu, Qingchuan Tao, and **Yongxiang Li#**
