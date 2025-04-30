@@ -4,7 +4,7 @@
 
 ## 2025
 - [Multi-granularity confidence learning for unsupervised text-to-image person re-identification with incomplete modality](https://www.sciencedirect.com/science/article/abs/pii/S095070512500351X), <br> Knowledge-Based Systems (KBS) `JCR: Q1` <br> **Yongxiang Li**, Dezhong Peng, Haixiao Huang, Yizhi Liu, Huiming Zheng, Zheng Liu
-- ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, <br> Conference on Computer Vision and Pattern Recognition (CVPR), `CCF-A` <br> Yuan Sun, **Yongxiang Li**, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu
+- ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence, <br> Conference on Computer Vision and Pattern Recognition (CVPR), `CCF-A` `CCF-A` <br> Yuan Sun, **Yongxiang Li**, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu
 - [Learning Source-free Domain Adaptation for Infrared Small Target Detection](https://ieeexplore.ieee.org/document/10916925), <br> IEEE Signal Processing Letters (SPL) `JCR: Q2` <br> Hongxu Jin, Baiyang Chen, Qianwen Lu, Qingchuan Tao, and **Yongxiang Li#**
 - [Outlier detection in mixed-attribute data: a semi-supervised approach with fuzzy approximations and relative entropy](https://www.sciencedirect.com/science/article/abs/pii/S0888613X25000143?CMX_ID=&SIS_ID=&dgcid=STMJ_219742_AUTH_SERV_PA&utm_acid=245378301&utm_campaign=STMJ_219742_AUTH_SERV_PA&utm_in=DM539090&utm_medium=email&utm_source=AC_), <br> International Journal of Approximate Reasoning (IJAR), `CCF-B` `JCR: Q3` <br> Baiyang Chen, 
 Zhong Yuan, Zheng Liu, Dezhong Peng, **Yongxiang Li**, Chang Liu, Guiduo Duan
