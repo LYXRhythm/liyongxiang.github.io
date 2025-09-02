@@ -3,7 +3,7 @@
 (*equal contribution, #corresponding author)
 
 ## 2025
-- A Kernelized Fuzzy Approximation Fusion Model with Granular-ball Computing for Outlier Detection, <br> Information Fusion, `JCR: Q1` <br> **Yongxiang Li**, Xinyu Su,, Zhong Yuan#, Run Ye, Dezhong Peng, Hongmei Chen
+- A Kernelized Fuzzy Approximation Fusion Model with Granular-ball Computing for Outlier Detection, <br> Information Fusion, `JCR: Q1` <br> **Yongxiang Li**, Xinyu Su,, Zhong Yuan, Run Ye, Dezhong Peng, Hongmei Chen
 - [Multi-granularity confidence learning for unsupervised text-to-image person re-identification with incomplete modality](https://www.sciencedirect.com/science/article/abs/pii/S095070512500351X), <br> Knowledge-Based Systems (KBS) `JCR: Q1` <br> **Yongxiang Li**, Dezhong Peng, Haixiao Huang, Yizhi Liu, Huiming Zheng, Zheng Liu
 - [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html), <br> Conference on Computer Vision and Pattern Recognition (CVPR), `CCF-A` <br> Yuan Sun, **Yongxiang Li**, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu
 - [Learning Source-free Domain Adaptation for Infrared Small Target Detection](https://ieeexplore.ieee.org/document/10916925), <br> IEEE Signal Processing Letters (SPL) `JCR: Q2` <br> Hongxu Jin, Baiyang Chen, Qianwen Lu, Qingchuan Tao, and **Yongxiang Li#**
