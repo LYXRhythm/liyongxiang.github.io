@@ -3,6 +3,7 @@
 (*equal contribution, #corresponding author)
 
 ## 2025
+- Interactive Cross-modal Learning for Text-3D Scene Retrieval, <br> Conference and Workshop on Neural Information Processing Systems (NeurIPS), `CCF-A` <br> Yanglin Feng, **Yongxiang Li**, Yuan Sun, Yang Qin, Dezhong Peng, Peng Hu
 - [A Kernelized Fuzzy Approximation Fusion Model with Granular-ball Computing for Outlier Detection](https://www.sciencedirect.com/science/article/pii/S1566253525007729), <br> Information Fusion (InF), `JCR: Q1` <br> **Yongxiang Li**, Xinyu Su,, Zhong Yuan, Run Ye, Dezhong Peng, Hongmei Chen
 - [Multi-granularity confidence learning for unsupervised text-to-image person re-identification with incomplete modality](https://www.sciencedirect.com/science/article/abs/pii/S095070512500351X), <br> Knowledge-Based Systems (KBS) `JCR: Q1` <br> **Yongxiang Li**, Dezhong Peng, Haixiao Huang, Yizhi Liu, Huiming Zheng, Zheng Liu
 - [ROLL: Robust Noisy Pseudo-label Learning for Multi-View Clustering with Noisy Correspondence](https://openaccess.thecvf.com/content/CVPR2025/html/Sun_ROLL_Robust_Noisy_Pseudo-label_Learning_for_Multi-View_Clustering_with_Noisy_CVPR_2025_paper.html), <br> Conference on Computer Vision and Pattern Recognition (CVPR), `CCF-A` <br> Yuan Sun, **Yongxiang Li**, Zhenwen Ren, Guiduo Duan, Dezhong Peng, Peng Hu
