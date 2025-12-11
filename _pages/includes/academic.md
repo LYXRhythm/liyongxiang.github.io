@@ -7,7 +7,6 @@
 
 ### Selected Journal Reviewer:
  - IEEE Transactions on Multimedia (TMM);
- - IEEE Transactions on Neural Networks and Learning Systems (TNNLS);
  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT);
  - IEEE Transactions on Vehicular Technology (TVT);
  - Journal of Big Data (JBD). 
