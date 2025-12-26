@@ -3,6 +3,7 @@
 (*equal contribution, #corresponding author)
 
 ## 2025
+- RISE: Semantics-Guided Discriminative and Robust Learning for Unsupervised Cross-Modal Hashing, <br> Knowledge-Based Systems (KBS) `JCR: Q1` <br> Rui Wang, Haixiao Huang, Yanglin Feng, Dezhong Peng, Peng Hu, **Yongxiang Li**
 - Learning Source-Free Domain Adaptation for Visible-Infrared Person Re-Identification, <br> Conference on Neural Information Processing Systems (NeurIPS), `CCF-A` <br> **Yongxiang Li**, Yanglin Feng, Yuan Sun, Dezhong Peng, Xi Peng, Peng Hu
 - Interactive Cross-modal Learning for Text-3D Scene Retrieval, <br> Conference on Neural Information Processing Systems (NeurIPS), `CCF-A` <br> Yanglin Feng, **Yongxiang Li**, Yuan Sun, Yang Qin, Dezhong Peng, Peng Hu
 - [A Kernelized Fuzzy Approximation Fusion Model with Granular-ball Computing for Outlier Detection](https://www.sciencedirect.com/science/article/pii/S1566253525007729), <br> Information Fusion (InF), `JCR: Q1` <br> **Yongxiang Li**, Xinyu Su,, Zhong Yuan, Run Ye, Dezhong Peng, Hongmei Chen
