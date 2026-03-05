@@ -3,7 +3,7 @@
 (*equal contribution, #corresponding author)
 
 ## 2026
-- Learning Fully Unsupervised Cross-domain Image Retrieval through Self-supervised Pseudo-labels, <br> IEEE Transactions on Multimedia (TMM), `CCF-B` `JCR: Q1` <br> **Yongxiang Li**, Xiaoyun Ren, Yuan Sun, Guiduo Duan, Dezhong Peng, Qingchuan Tao 
+- Learning Fully Unsupervised Cross-domain Image Retrieval through Self-supervised Pseudo-labels, <br> IEEE Transactions on Multimedia (TMM), `CCF-A` `JCR: Q1` <br> **Yongxiang Li**, Xiaoyun Ren, Yuan Sun, Guiduo Duan, Dezhong Peng, Qingchuan Tao 
 
 ## 2025
 - RISE: Semantics-Guided Discriminative and Robust Learning for Unsupervised Cross-Modal Hashing, <br> Knowledge-Based Systems (KBS) `JCR: Q1` <br> Rui Wang, Haixiao Huang, Yanglin Feng, Dezhong Peng, Peng Hu, **Yongxiang Li#**
