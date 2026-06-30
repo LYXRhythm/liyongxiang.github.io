@@ -1,11 +1,12 @@
 # 🧑‍🎨 Academic Service
 
 ### Members:
- - IEEE Student Member;
- - Student member of China Society of Image and Graphic;
- - Student member of China Computer Society.
+ - Member of China Society of Image and Graphic;
+ - Member of China Computer Society.
 
 ### Selected Journal Reviewer:
+ - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI);
+ - IEEE Transactions on Image Processing (TIP);
  - IEEE Transactions on Multimedia (TMM);
  - IEEE Transactions on Circuits and Systems for Video Technology (TCSVT);
  - IEEE Transactions on Vehicular Technology (TVT);
