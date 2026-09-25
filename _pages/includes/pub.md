@@ -3,6 +3,7 @@
 (*equal contribution, #corresponding author)
 
 ## 2026
+- LAMP: Language-Modulated Geometric Preservation for Multi-Modal Object Re-Identification, <br> Conference on Neural Information Processing Systems (NeurIPS), `CCF-A` <br> Shuying Li, Chao Su, **Yongxiang Li**, Peng Hu, Dezhong Peng, Yuan Sun
 - Learning Cross-modal Self-distillation Hashing with Noisy Labels, <br> IEEE Transactions on Knowledge and Data Engineering (TKDE), `CCF-A` `JCR: Q1` <br> **Yongxiang Li**, Yanglin Feng, Yuan Sun, Dezhong Peng, Rui Wang, Xiaomin Song, Peng Hu
 - Beyond Instance-Level: Granular-Ball Topological Alignment for Unsupervised Cross-Modal Hashing, <br> International Conference on Intelligent Computing (ICIC), `CCF-C` <br> Jia Tang, **Yongxiang Li**, Peng Wang
 - Granular-Ball Fuzzy Neighborhood Entropy-Based Outlier Detector, <br> IEEE Transactions on Fuzzy Systems (TFS), `CCF-B` `JCR: Q1` <br> **Yongxiang Li**, Xinyu Su, Weili Jiang, Gadeng Luosang, Hongmei Chen, Zhong Yuan 
